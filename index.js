@@ -22,6 +22,6 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  kittens.unshift()
+  kittens.unshift(Broom)
   return kittens
 }
